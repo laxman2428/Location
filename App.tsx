@@ -198,8 +198,8 @@ const styles = StyleSheet.create({
     marginLeft: 15,
   },
   pressedItem: {
-    backgroundColor: '#f0f0f0', // Background color to indicate the item is pressed
-    borderRadius: 5, // Optional: round corners
+    backgroundColor: '#f0f0f0',
+    borderRadius: 5,
   },
   image: {
     height: 23,
