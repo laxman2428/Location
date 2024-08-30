@@ -5,7 +5,7 @@ const EmptyState: React.FC = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('../Assets/Images/Image.png')}
+        source={require('../assets/Images/Image.png')}
         style={styles.image}
       />
       <Text style={styles.welcomeText}>Welcome to GPS Store</Text>
